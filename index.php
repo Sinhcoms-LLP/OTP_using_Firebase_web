@@ -1,4 +1,4 @@
-<?php require('fb-config.php'); ?>
+<?php require('config.php'); ?>
 <html>
 <head>
 <meta charset="utf-8">
